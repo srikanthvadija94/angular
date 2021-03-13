@@ -1,0 +1,233 @@
+[
+  {
+    "name": "ACTIVE_INDEX"
+  },
+  {
+    "name": "BINDING_INDEX"
+  },
+  {
+    "name": "CLEAN_PROMISE"
+  },
+  {
+    "name": "CONTEXT"
+  },
+  {
+    "name": "DIRECTIVES"
+  },
+  {
+    "name": "EMPTY$2"
+  },
+  {
+    "name": "EMPTY_RENDERER_TYPE_ID"
+  },
+  {
+    "name": "FLAGS"
+  },
+  {
+    "name": "HEADER_FILLER"
+  },
+  {
+    "name": "HEADER_OFFSET"
+  },
+  {
+    "name": "HOST_NODE"
+  },
+  {
+    "name": "HelloWorld"
+  },
+  {
+    "name": "INJECTOR$1"
+  },
+  {
+    "name": "INeedToExistEvenThoughIAmNotNeeded"
+  },
+  {
+    "name": "NEXT"
+  },
+  {
+    "name": "NG_HOST_SYMBOL"
+  },
+  {
+    "name": "NG_PROJECT_AS_ATTR_NAME"
+  },
+  {
+    "name": "QUERIES"
+  },
+  {
+    "name": "RENDERER"
+  },
+  {
+    "name": "RENDER_PARENT"
+  },
+  {
+    "name": "ROOT_DIRECTIVE_INDICES"
+  },
+  {
+    "name": "TVIEW"
+  },
+  {
+    "name": "UNDEFINED_RENDERER_TYPE_ID"
+  },
+  {
+    "name": "VIEWS"
+  },
+  {
+    "name": "_CLEAN_PROMISE"
+  },
+  {
+    "name": "_ROOT_DIRECTIVE_INDICES"
+  },
+  {
+    "name": "_renderCompCount"
+  },
+  {
+    "name": "appendChild"
+  },
+  {
+    "name": "baseDirectiveCreate"
+  },
+  {
+    "name": "callHooks"
+  },
+  {
+    "name": "canInsertNativeNode"
+  },
+  {
+    "name": "checkNoChangesMode"
+  },
+  {
+    "name": "componentRefresh"
+  },
+  {
+    "name": "createLNode"
+  },
+  {
+    "name": "createLNodeObject"
+  },
+  {
+    "name": "createLViewData"
+  },
+  {
+    "name": "createRootContext"
+  },
+  {
+    "name": "createTNode"
+  },
+  {
+    "name": "createTView"
+  },
+  {
+    "name": "createTextNode"
+  },
+  {
+    "name": "createViewQuery"
+  },
+  {
+    "name": "defineComponent"
+  },
+  {
+    "name": "defineInjector"
+  },
+  {
+    "name": "detectChangesInternal"
+  },
+  {
+    "name": "domRendererFactory3"
+  },
+  {
+    "name": "enterView"
+  },
+  {
+    "name": "executeHooks"
+  },
+  {
+    "name": "executeInitAndContentHooks"
+  },
+  {
+    "name": "executeInitHooks"
+  },
+  {
+    "name": "extractDirectiveDef"
+  },
+  {
+    "name": "extractPipeDef"
+  },
+  {
+    "name": "firstTemplatePass"
+  },
+  {
+    "name": "getChildLNode"
+  },
+  {
+    "name": "getDirectiveInstance"
+  },
+  {
+    "name": "getLViewChild"
+  },
+  {
+    "name": "getOrCreateTView"
+  },
+  {
+    "name": "getParentLNode"
+  },
+  {
+    "name": "getRenderFlags"
+  },
+  {
+    "name": "hostElement"
+  },
+  {
+    "name": "initChangeDetectorIfExisting"
+  },
+  {
+    "name": "invertObject"
+  },
+  {
+    "name": "isProceduralRenderer"
+  },
+  {
+    "name": "leaveView"
+  },
+  {
+    "name": "locateHostElement"
+  },
+  {
+    "name": "refreshChildComponents"
+  },
+  {
+    "name": "refreshDynamicEmbeddedViews"
+  },
+  {
+    "name": "refreshView"
+  },
+  {
+    "name": "renderComponent"
+  },
+  {
+    "name": "renderEmbeddedTemplate"
+  },
+  {
+    "name": "resetApplicationState"
+  },
+  {
+    "name": "resolveRendererType2"
+  },
+  {
+    "name": "setHostBindings"
+  },
+  {
+    "name": "setUpAttributes"
+  },
+  {
+    "name": "stringify$1"
+  },
+  {
+    "name": "text"
+  },
+  {
+    "name": "updateViewQuery"
+  },
+  {
+    "name": "viewAttached"
+  }
+]
